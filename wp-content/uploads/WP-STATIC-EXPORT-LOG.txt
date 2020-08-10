@@ -1,0 +1,1454 @@
+2020-06-16 03:51:06
+PHP VERSION 7.4.5
+OS VERSION Windows NT DESKTOP-ROSUBDF 10.0 build 17134 (Windows 10) AMD64
+WP VERSION 5.4.2
+WP URL http://localhost/wordpress
+WP SITEURL http://localhost/wordpress
+WP HOME http://localhost/wordpress
+WP ADDRESS http://localhost/wordpress
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://realtechmaniac.github.io/wakmania/
+PERMALINK STRUCTURE /%postname%/
+SERVER SOFTWARE Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.5
+Active plugins:
+advanced-custom-fields/acf.php
+simply-static/simply-static.php
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /gallery/
+Adding discovered URL: /blog/
+Adding discovered URL: /wp-content/themes/theme/assets/img/about/keynote.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/testmonial/quote.svg
+SAVING / to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /about/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /about/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /gallery/
+Adding discovered URL: /blog/
+SAVING /about/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/\/about/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/
+Adding discovered URL: /blog/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /blog/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /gallery/
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_2.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_3.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_1.png
+SAVING /blog/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/\/blog/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+SAVING /category/uncategorized/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+SAVING /category/uncategorized/page/1 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /fields/page/1
+BAD RESPONSE STATUS (404): /fields/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /fields/page/2
+BAD RESPONSE STATUS (404): /fields/page/2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /fields/page/3
+BAD RESPONSE STATUS (404): /fields/page/3
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /fields/page/4
+BAD RESPONSE STATUS (404): /fields/page/4
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /gallery/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /gallery/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /blog/
+SAVING /gallery/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/\/gallery/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /hello-world/
+SAVING /hello-world/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/\/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /gallery/
+Adding discovered URL: /blog/
+Adding discovered URL: /wp-content/themes/theme/assets/img/about/keynote.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/testmonial/quote.svg
+SAVING /page/1 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+BAD RESPONSE STATUS (404): /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/
+BAD RESPONSE STATUS (404): /wordpress/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/about/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /about/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /gallery/
+Adding discovered URL: /blog/
+SAVING /wordpress/about/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wordpress/about/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/blog/
+Adding discovered URL: /blog/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /blog/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /gallery/
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_2.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_3.png
+Adding discovered URL: /wp-content/themes/theme/assets/img/blog/single_blog_1.png
+SAVING /wordpress/blog/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wordpress/blog/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/gallery/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/img/favicon.ico
+Adding discovered URL: /wp-content/themes/theme/assets/css/bootstrap.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/owl.carousel.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slicknav.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/flaticon.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/magnific-popup.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/themify-icons.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/slick.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/nice-select.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/style.css
+Adding discovered URL: /wp-content/themes/theme/assets/css/gallery.css
+Adding discovered URL: /wp-content/themes/theme/custom.css
+Adding discovered URL: /wp-json/
+Adding discovered URL: /gallery/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/theme/assets/img/logo/keynote.png
+Adding discovered URL: /about/
+Adding discovered URL: /blog/
+SAVING /wordpress/gallery/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wordpress/gallery/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/hello-world/
+SAVING /wordpress/hello-world/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wordpress/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\css\font-awesome.min.css
+SAVING /wp-content/themes/theme\Doc\css\font-awesome.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\css/font-awesome.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\css\main.css
+SAVING /wp-content/themes/theme\Doc\css\main.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\css/main.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\css\normalize.min.css
+SAVING /wp-content/themes/theme\Doc\css\normalize.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\css/normalize.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\fonts\FontAwesome.otf
+SAVING /wp-content/themes/theme\Doc\fonts\FontAwesome.otf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\fonts/FontAwesome.otf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.eot
+SAVING /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\fonts/fontawesome-webfont.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.svg
+SAVING /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\fonts/fontawesome-webfont.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.ttf
+SAVING /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\fonts/fontawesome-webfont.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.woff
+SAVING /wp-content/themes/theme\Doc\fonts\fontawesome-webfont.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\fonts/fontawesome-webfont.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\img\Thumbs.db
+SAVING /wp-content/themes/theme\Doc\img\Thumbs.db to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\img/Thumbs.db
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\img\logo.png
+SAVING /wp-content/themes/theme\Doc\img\logo.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\img/logo.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\index.html
+SAVING /wp-content/themes/theme\Doc\index.html to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\js\custom.js
+SAVING /wp-content/themes/theme\Doc\js\custom.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\js/custom.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\js\jquery-1.11.0.min.js
+SAVING /wp-content/themes/theme\Doc\js\jquery-1.11.0.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\js/jquery-1.11.0.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\js\jquery.nav.js
+SAVING /wp-content/themes/theme\Doc\js\jquery.nav.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\js/jquery.nav.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shAutoloader.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shAutoloader.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shAutoloader.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushAS3.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushAS3.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushAS3.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushAppleScript.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushAppleScript.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushAppleScript.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushBash.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushBash.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushBash.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCSharp.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCSharp.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushCSharp.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushColdFusion.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushColdFusion.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushColdFusion.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCpp.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCpp.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushCpp.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCss.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushCss.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushCss.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushDelphi.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushDelphi.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushDelphi.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushDiff.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushDiff.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushDiff.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushErlang.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushErlang.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushErlang.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushGroovy.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushGroovy.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushGroovy.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJScript.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJScript.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushJScript.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJava.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJava.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushJava.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJavaFX.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushJavaFX.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushJavaFX.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPerl.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPerl.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushPerl.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPhp.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPhp.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushPhp.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPlain.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPlain.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushPlain.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPowerShell.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPowerShell.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushPowerShell.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPython.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushPython.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushPython.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushRuby.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushRuby.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushRuby.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushSass.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushSass.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushSass.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushScala.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushScala.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushScala.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushSql.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushSql.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushSql.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushVb.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushVb.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushVb.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushXml.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shBrushXml.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shBrushXml.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shCore.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shCore.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shCore.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shLegacy.js
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\scripts\shLegacy.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\scripts/shLegacy.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCore.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCore.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCore.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreDefault.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreDefault.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreDefault.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreDjango.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreDjango.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreDjango.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreEclipse.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreEclipse.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreEclipse.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreEmacs.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreEmacs.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreEmacs.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreFadeToGrey.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreFadeToGrey.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreFadeToGrey.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreMDUltra.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreMDUltra.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreMDUltra.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreMidnight.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreMidnight.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreMidnight.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreRDark.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shCoreRDark.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shCoreRDark.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeDefault.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeDefault.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeDefault.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeDjango.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeDjango.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeDjango.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeEclipse.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeEclipse.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeEclipse.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeEmacs.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeEmacs.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeEmacs.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeFadeToGrey.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeFadeToGrey.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeFadeToGrey.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeMDUltra.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeMDUltra.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeMDUltra.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeMidnight.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeMidnight.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeMidnight.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeRDark.css
+SAVING /wp-content/themes/theme\Doc\syntax-highlighter\styles\shThemeRDark.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\Doc\syntax-highlighter\styles/shThemeRDark.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\animate.min.css
+SAVING /wp-content/themes/theme\assets\css\animate.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/animate.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\bootstrap.min.css
+SAVING /wp-content/themes/theme\assets\css\bootstrap.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/bootstrap.min.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\flaticon.css
+SAVING /wp-content/themes/theme\assets\css\flaticon.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/flaticon.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\fontawesome-all.min.css
+SAVING /wp-content/themes/theme\assets\css\fontawesome-all.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/fontawesome-all.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\gallery.css
+SAVING /wp-content/themes/theme\assets\css\gallery.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/gallery.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\magnific-popup.css
+SAVING /wp-content/themes/theme\assets\css\magnific-popup.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/magnific-popup.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\main.css
+SAVING /wp-content/themes/theme\assets\css\main.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/main.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\nice-select.css
+SAVING /wp-content/themes/theme\assets\css\nice-select.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/nice-select.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\owl.carousel.min.css
+SAVING /wp-content/themes/theme\assets\css\owl.carousel.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/owl.carousel.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\price_rangs.css
+SAVING /wp-content/themes/theme\assets\css\price_rangs.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/price_rangs.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\responsive.css
+SAVING /wp-content/themes/theme\assets\css\responsive.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/responsive.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\slick.css
+SAVING /wp-content/themes/theme\assets\css\slick.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/slick.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\slicknav.css
+SAVING /wp-content/themes/theme\assets\css\slicknav.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/slicknav.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\style.css
+SAVING /wp-content/themes/theme\assets\css\style.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\css\themify-icons.css
+SAVING /wp-content/themes/theme\assets\css\themify-icons.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\css/themify-icons.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\Flaticon.eot
+SAVING /wp-content/themes/theme\assets\fonts\Flaticon.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/Flaticon.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\Flaticon.svg
+SAVING /wp-content/themes/theme\assets\fonts\Flaticon.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/Flaticon.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\Flaticon.ttf
+SAVING /wp-content/themes/theme\assets\fonts\Flaticon.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/Flaticon.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\Flaticon.woff
+SAVING /wp-content/themes/theme\assets\fonts\Flaticon.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/Flaticon.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\Flaticon.woff2
+SAVING /wp-content/themes/theme\assets\fonts\Flaticon.woff2 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/Flaticon.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-brands-400.eot
+SAVING /wp-content/themes/theme\assets\fonts\fa-brands-400.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-brands-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-brands-400.svg
+SAVING /wp-content/themes/theme\assets\fonts\fa-brands-400.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-brands-400.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-brands-400.ttf
+SAVING /wp-content/themes/theme\assets\fonts\fa-brands-400.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-brands-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-brands-400.woff
+SAVING /wp-content/themes/theme\assets\fonts\fa-brands-400.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-brands-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-brands-400.woff2
+SAVING /wp-content/themes/theme\assets\fonts\fa-brands-400.woff2 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-brands-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-regular-400.eot
+SAVING /wp-content/themes/theme\assets\fonts\fa-regular-400.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-regular-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-regular-400.svg
+SAVING /wp-content/themes/theme\assets\fonts\fa-regular-400.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-regular-400.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-regular-400.ttf
+SAVING /wp-content/themes/theme\assets\fonts\fa-regular-400.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-regular-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-regular-400.woff
+SAVING /wp-content/themes/theme\assets\fonts\fa-regular-400.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-regular-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-regular-400.woff2
+SAVING /wp-content/themes/theme\assets\fonts\fa-regular-400.woff2 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-regular-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-solid-900.eot
+SAVING /wp-content/themes/theme\assets\fonts\fa-solid-900.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-solid-900.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-solid-900.svg
+SAVING /wp-content/themes/theme\assets\fonts\fa-solid-900.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-solid-900.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-solid-900.ttf
+SAVING /wp-content/themes/theme\assets\fonts\fa-solid-900.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-solid-900.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-solid-900.woff
+SAVING /wp-content/themes/theme\assets\fonts\fa-solid-900.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-solid-900.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\fa-solid-900.woff2
+SAVING /wp-content/themes/theme\assets\fonts\fa-solid-900.woff2 to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/fa-solid-900.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\flaticon.css
+SAVING /wp-content/themes/theme\assets\fonts\flaticon.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/flaticon.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\flaticon.html
+SAVING /wp-content/themes/theme\assets\fonts\flaticon.html to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/flaticon.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\themify.eot
+SAVING /wp-content/themes/theme\assets\fonts\themify.eot to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/themify.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\themify.svg
+SAVING /wp-content/themes/theme\assets\fonts\themify.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/themify.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\themify.ttf
+SAVING /wp-content/themes/theme\assets\fonts\themify.ttf to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/themify.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\fonts\themify.woff
+SAVING /wp-content/themes/theme\assets\fonts\themify.woff to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\fonts/themify.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\about\about_lft.png
+SAVING /wp-content/themes/theme\assets\img\about\about_lft.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\about/about_lft.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\about\about_right.png
+SAVING /wp-content/themes/theme\assets\img\about\about_right.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\about/about_right.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\about\keynote.png
+SAVING /wp-content/themes/theme\assets\img\about\keynote.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\about/keynote.png
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\about\pet_care.png
+SAVING /wp-content/themes/theme\assets\img\about\pet_care.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\about/pet_care.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\adapt_icon\1.png
+SAVING /wp-content/themes/theme\assets\img\adapt_icon\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\adapt_icon/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\adapt_icon\1.svg
+SAVING /wp-content/themes/theme\assets\img\adapt_icon\1.svg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\adapt_icon/1.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\adapt_icon\2.png
+SAVING /wp-content/themes/theme\assets\img\adapt_icon\2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\adapt_icon/2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\adapt_icon\3.png
+SAVING /wp-content/themes/theme\assets\img\adapt_icon\3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\adapt_icon/3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\banner\img.png
+SAVING /wp-content/themes/theme\assets\img\banner\img.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\banner/img.png
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\author.png
+SAVING /wp-content/themes/theme\assets\img\blog\author.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/author.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\learn_about_bg.png
+SAVING /wp-content/themes/theme\assets\img\blog\learn_about_bg.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/learn_about_bg.png
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\single_blog_1.png
+SAVING /wp-content/themes/theme\assets\img\blog\single_blog_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/single_blog_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\single_blog_2.png
+SAVING /wp-content/themes/theme\assets\img\blog\single_blog_2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/single_blog_2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\single_blog_3.png
+SAVING /wp-content/themes/theme\assets\img\blog\single_blog_3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/single_blog_3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\single_blog_4.png
+SAVING /wp-content/themes/theme\assets\img\blog\single_blog_4.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/single_blog_4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\single_blog_5.png
+SAVING /wp-content/themes/theme\assets\img\blog\single_blog_5.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/single_blog_5.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\blog\slide_thumb_1.png
+SAVING /wp-content/themes/theme\assets\img\blog\slide_thumb_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\blog/slide_thumb_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\comment\comment_1.png
+SAVING /wp-content/themes/theme\assets\img\comment\comment_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\comment/comment_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\comment\comment_2.png
+SAVING /wp-content/themes/theme\assets\img\comment\comment_2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\comment/comment_2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\comment\comment_3.png
+SAVING /wp-content/themes/theme\assets\img\comment\comment_3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\comment/comment_3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\a.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\a.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/a.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\a2.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\a2.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/a2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\d.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\d.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/d.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\disabled-check.png
+SAVING /wp-content/themes/theme\assets\img\elements\disabled-check.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/disabled-check.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\disabled-radio.png
+SAVING /wp-content/themes/theme\assets\img\elements\disabled-radio.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/disabled-radio.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f1.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f1.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f2.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f2.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f3.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f3.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f3.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f4.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f4.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f4.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f5.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f5.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f5.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f6.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f6.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f6.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f7.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f7.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f7.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\f8.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\f8.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/f8.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g1.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g1.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g2.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g2.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g3.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g3.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g3.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g4.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g4.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g4.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g5.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g5.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g5.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g6.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g6.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g6.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g7.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g7.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g7.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\g8.jpg
+SAVING /wp-content/themes/theme\assets\img\elements\g8.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/g8.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\primary-check.png
+SAVING /wp-content/themes/theme\assets\img\elements\primary-check.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/primary-check.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\primary-radio.png
+SAVING /wp-content/themes/theme\assets\img\elements\primary-radio.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/primary-radio.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\success-check.png
+SAVING /wp-content/themes/theme\assets\img\elements\success-check.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/success-check.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\elements\success-radio.png
+SAVING /wp-content/themes/theme\assets\img\elements\success-radio.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\elements/success-radio.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\favicon.ico
+SAVING /wp-content/themes/theme\assets\img\favicon.ico to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img/favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\1.png
+SAVING /wp-content/themes/theme\assets\img\gallery\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\2.png
+SAVING /wp-content/themes/theme\assets\img\gallery\2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\3.png
+SAVING /wp-content/themes/theme\assets\img\gallery\3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\a.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\a.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/a.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\aboutme.png
+SAVING /wp-content/themes/theme\assets\img\gallery\aboutme.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/aboutme.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\b.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\b.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/b.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\blog1.png
+SAVING /wp-content/themes/theme\assets\img\gallery\blog1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/blog1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\blog2.png
+SAVING /wp-content/themes/theme\assets\img\gallery\blog2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/blog2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\blog3.png
+SAVING /wp-content/themes/theme\assets\img\gallery\blog3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/blog3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\brand1.png
+SAVING /wp-content/themes/theme\assets\img\gallery\brand1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/brand1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\brand2.png
+SAVING /wp-content/themes/theme\assets\img\gallery\brand2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/brand2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\brand3.png
+SAVING /wp-content/themes/theme\assets\img\gallery\brand3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/brand3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\brand4.png
+SAVING /wp-content/themes/theme\assets\img\gallery\brand4.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/brand4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\c.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\c.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/c.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\d.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\d.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/d.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\e.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\e.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/e.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\f.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\f.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/f.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\footer_bg.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\footer_bg.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/footer_bg.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\portfolio.png
+SAVING /wp-content/themes/theme\assets\img\gallery\portfolio.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/portfolio.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\section_bg02.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\section_bg02.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/section_bg02.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\section_bg04.jpg
+SAVING /wp-content/themes/theme\assets\img\gallery\section_bg04.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/section_bg04.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\shape1.png
+SAVING /wp-content/themes/theme\assets\img\gallery\shape1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/shape1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\gallery\sin.png
+SAVING /wp-content/themes/theme\assets\img\gallery\sin.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\gallery/sin.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\hero\KN1.jpg
+SAVING /wp-content/themes/theme\assets\img\hero\KN1.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\hero/KN1.jpg
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\hero\h1_hero.jpg
+SAVING /wp-content/themes/theme\assets\img\hero\h1_hero.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\hero/h1_hero.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\hero\hero2.jpg
+SAVING /wp-content/themes/theme\assets\img\hero\hero2.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\hero/hero2.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\logo\keynote.png
+SAVING /wp-content/themes/theme\assets\img\logo\keynote.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\logo/keynote.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\logo\loder.jpg
+SAVING /wp-content/themes/theme\assets\img\logo\loder.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\logo/loder.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\logo\logo.png
+SAVING /wp-content/themes/theme\assets\img\logo\logo.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\logo/logo.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\logo\logo2_footer.png
+SAVING /wp-content/themes/theme\assets\img\logo\logo2_footer.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\logo/logo2_footer.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\logo\select-items-icon.jpg
+SAVING /wp-content/themes/theme\assets\img\logo\select-items-icon.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\logo/select-items-icon.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\our_blog\blog-img1.jpg
+SAVING /wp-content/themes/theme\assets\img\our_blog\blog-img1.jpg to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\our_blog/blog-img1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\next.png
+SAVING /wp-content/themes/theme\assets\img\post\next.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/next.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_1.png
+SAVING /wp-content/themes/theme\assets\img\post\post_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_10.png
+SAVING /wp-content/themes/theme\assets\img\post\post_10.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_10.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_2.png
+SAVING /wp-content/themes/theme\assets\img\post\post_2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_3.png
+SAVING /wp-content/themes/theme\assets\img\post\post_3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_4.png
+SAVING /wp-content/themes/theme\assets\img\post\post_4.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_5.png
+SAVING /wp-content/themes/theme\assets\img\post\post_5.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_5.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_6.png
+SAVING /wp-content/themes/theme\assets\img\post\post_6.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_6.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_7.png
+SAVING /wp-content/themes/theme\assets\img\post\post_7.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_7.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_8.png
+SAVING /wp-content/themes/theme\assets\img\post\post_8.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_8.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\post_9.png
+SAVING /wp-content/themes/theme\assets\img\post\post_9.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/post_9.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\post\preview.png
+SAVING /wp-content/themes/theme\assets\img\post\preview.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\post/preview.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\1.png
+SAVING /wp-content/themes/theme\assets\img\prising\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\10.png
+SAVING /wp-content/themes/theme\assets\img\prising\10.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/10.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\2.png
+SAVING /wp-content/themes/theme\assets\img\prising\2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\3.png
+SAVING /wp-content/themes/theme\assets\img\prising\3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\4.png
+SAVING /wp-content/themes/theme\assets\img\prising\4.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\5.png
+SAVING /wp-content/themes/theme\assets\img\prising\5.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/5.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\6.png
+SAVING /wp-content/themes/theme\assets\img\prising\6.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/6.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\7.png
+SAVING /wp-content/themes/theme\assets\img\prising\7.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/7.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\8.png
+SAVING /wp-content/themes/theme\assets\img\prising\8.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/8.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\prising\9.png
+SAVING /wp-content/themes/theme\assets\img\prising\9.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\prising/9.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\1.png
+SAVING /wp-content/themes/theme\assets\img\service\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\2.png
+SAVING /wp-content/themes/theme\assets\img\service\2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\3.png
+SAVING /wp-content/themes/theme\assets\img\service\3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\service_icon_1.png
+SAVING /wp-content/themes/theme\assets\img\service\service_icon_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/service_icon_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\service_icon_2.png
+SAVING /wp-content/themes/theme\assets\img\service\service_icon_2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/service_icon_2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\service_icon_3.png
+SAVING /wp-content/themes/theme\assets\img\service\service_icon_3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/service_icon_3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\service_icon_bg_1.png
+SAVING /wp-content/themes/theme\assets\img\service\service_icon_bg_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/service_icon_bg_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services1.png
+SAVING /wp-content/themes/theme\assets\img\service\services1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services2.png
+SAVING /wp-content/themes/theme\assets\img\service\services2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services3.png
+SAVING /wp-content/themes/theme\assets\img\service\services3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services4.png
+SAVING /wp-content/themes/theme\assets\img\service\services4.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services5.png
+SAVING /wp-content/themes/theme\assets\img\service\services5.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services5.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\service\services6.png
+SAVING /wp-content/themes/theme\assets\img\service\services6.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\service/services6.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\team\1.png
+SAVING /wp-content/themes/theme\assets\img\team\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\team/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\team\2.png
+SAVING /wp-content/themes/theme\assets\img\team\2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\team/2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\team\3.png
+SAVING /wp-content/themes/theme\assets\img\team\3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\team/3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\testmonial\1.png
+SAVING /wp-content/themes/theme\assets\img\testmonial\1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\testmonial/1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\img\testmonial\Homepage_testi.png
+SAVING /wp-content/themes/theme\assets\img\testmonial\Homepage_testi.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\img\testmonial/Homepage_testi.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\animated.headline.js
+SAVING /wp-content/themes/theme\assets\js\animated.headline.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/animated.headline.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\bootstrap.min.js
+SAVING /wp-content/themes/theme\assets\js\bootstrap.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/bootstrap.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\contact.js
+SAVING /wp-content/themes/theme\assets\js\contact.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/contact.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.ajaxchimp.min.js
+SAVING /wp-content/themes/theme\assets\js\jquery.ajaxchimp.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.ajaxchimp.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.form.js
+SAVING /wp-content/themes/theme\assets\js\jquery.form.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.form.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.magnific-popup.js
+SAVING /wp-content/themes/theme\assets\js\jquery.magnific-popup.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.magnific-popup.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.nice-select.min.js
+SAVING /wp-content/themes/theme\assets\js\jquery.nice-select.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.nice-select.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.paroller.min.js
+SAVING /wp-content/themes/theme\assets\js\jquery.paroller.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.paroller.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.slicknav.min.js
+SAVING /wp-content/themes/theme\assets\js\jquery.slicknav.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.slicknav.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.sticky.js
+SAVING /wp-content/themes/theme\assets\js\jquery.sticky.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.sticky.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\jquery.validate.min.js
+SAVING /wp-content/themes/theme\assets\js\jquery.validate.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/jquery.validate.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\mail-script.js
+SAVING /wp-content/themes/theme\assets\js\mail-script.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/mail-script.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\main.js
+SAVING /wp-content/themes/theme\assets\js\main.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/main.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\one-page-nav-min.js
+SAVING /wp-content/themes/theme\assets\js\one-page-nav-min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/one-page-nav-min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\owl.carousel.min.js
+SAVING /wp-content/themes/theme\assets\js\owl.carousel.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/owl.carousel.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\plugins.js
+SAVING /wp-content/themes/theme\assets\js\plugins.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/plugins.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\popper.min.js
+SAVING /wp-content/themes/theme\assets\js\popper.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/popper.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\price-range.js
+SAVING /wp-content/themes/theme\assets\js\price-range.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/price-range.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\slick.min.js
+SAVING /wp-content/themes/theme\assets\js\slick.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/slick.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\assets\js\wow.min.js
+SAVING /wp-content/themes/theme\assets\js\wow.min.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme\assets\js/wow.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\custom.css
+NOT SAVING EMTPY FILE /wp-content/themes/theme\custom.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\custom.js
+SAVING /wp-content/themes/theme\custom.js to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/custom.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\screenshot.png.png
+SAVING /wp-content/themes/theme\screenshot.png.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/screenshot.png.png
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme\style.css
+NOT SAVING EMTPY FILE /wp-content/themes/theme\style.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\static-html-output-plugin-6.6.8-gb-6.6.8-npm2.tgz
+SAVING /wp-content/uploads\2020\06\static-html-output-plugin-6.6.8-gb-6.6.8-npm2.tgz to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/uploads\2020\06/static-html-output-plugin-6.6.8-gb-6.6.8-npm2.tgz
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/feed/
+SAVING /blog/feed/ to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/blog/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/bootstrap.min.css
+SAVING /wp-content/themes/theme/assets/css/bootstrap.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/bootstrap.min.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/flaticon.css
+SAVING /wp-content/themes/theme/assets/css/flaticon.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/flaticon.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/fontawesome-all.min.css
+SAVING /wp-content/themes/theme/assets/css/fontawesome-all.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/fontawesome-all.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/gallery.css
+SAVING /wp-content/themes/theme/assets/css/gallery.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/gallery.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/magnific-popup.css
+SAVING /wp-content/themes/theme/assets/css/magnific-popup.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/magnific-popup.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/nice-select.css
+SAVING /wp-content/themes/theme/assets/css/nice-select.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/nice-select.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/owl.carousel.min.css
+SAVING /wp-content/themes/theme/assets/css/owl.carousel.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/owl.carousel.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/slick.css
+SAVING /wp-content/themes/theme/assets/css/slick.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/slick.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/slicknav.css
+SAVING /wp-content/themes/theme/assets/css/slicknav.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/slicknav.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/style.css
+SAVING /wp-content/themes/theme/assets/css/style.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/css/themify-icons.css
+SAVING /wp-content/themes/theme/assets/css/themify-icons.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/css/themify-icons.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/about/keynote.png
+SAVING /wp-content/themes/theme/assets/img/about/keynote.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/about/keynote.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/blog/single_blog_1.png
+SAVING /wp-content/themes/theme/assets/img/blog/single_blog_1.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/blog/single_blog_1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/blog/single_blog_2.png
+SAVING /wp-content/themes/theme/assets/img/blog/single_blog_2.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/blog/single_blog_2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/blog/single_blog_3.png
+SAVING /wp-content/themes/theme/assets/img/blog/single_blog_3.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/blog/single_blog_3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/favicon.ico
+SAVING /wp-content/themes/theme/assets/img/favicon.ico to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/logo/keynote.png
+SAVING /wp-content/themes/theme/assets/img/logo/keynote.png to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-content/themes/theme/assets/img/logo/keynote.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/assets/img/testmonial/quote.svg
+BAD RESPONSE STATUS (404): /wp-content/themes/theme/assets/img/testmonial/quote.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/theme/custom.css
+NOT SAVING EMTPY FILE /wp-content/themes/theme/custom.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\xampp\\htdocs\\wordpress/wp-content/uploads/wp-static-html-output-1592322666/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
